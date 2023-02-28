@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"IdAdresu","INTEGER","2","2","0"
+"IdWojewodztwa","INTEGER","2","2","0"
+"Ulica","STRING","20","0","0"
+"KodPocztowy","STRING","6","0","0"
+"Miasto","STRING","12","0","0"

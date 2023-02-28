@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"IdZakupu","INTEGER","1","1","0"
+"IdProduktu","INTEGER","2","2","0"
+"CenaZakupu","DECIMAL","7","2","4"
+"LiczbaSztuk","INTEGER","3","3","0"
+"StawkaVat","DECIMAL","4","1","2"
+"SSMA_TimeStamp","STRING","16","0","0"

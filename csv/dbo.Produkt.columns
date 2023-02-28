@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"IdProduktu","INTEGER","2","2","0"
+"IdKategorii","INTEGER","1","1","0"
+"Nazwa","STRING","20","0","0"
+"LiczbaSztukMagazyn","INTEGER","4","4","0"
+"CenaCennik","DECIMAL","7","2","4"

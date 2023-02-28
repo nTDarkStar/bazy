@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"IdPracownika","INTEGER","2","2","0"
+"IdStanowiska","INTEGER","1","1","0"
+"Nazwisko","STRING","11","0","0"
+"Imie","STRING","10","0","0"
+"NumerTelefonu","INTEGER","9","9","0"
+"Email","STRING","27","0","0"

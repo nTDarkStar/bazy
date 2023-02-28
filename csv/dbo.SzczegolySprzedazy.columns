@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"IdSprzedazy","INTEGER","3","3","0"
+"IdProduktu","INTEGER","2","2","0"
+"CenaSprzedazy","DECIMAL","9","4","4"
+"LiczbaSztuk","INTEGER","3","3","0"
+"StawkaVat","DECIMAL","4","1","2"
+"SSMA_TimeStamp","STRING","16","0","0"
